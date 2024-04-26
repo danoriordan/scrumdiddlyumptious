@@ -16,8 +16,8 @@ require("dotenv").config({
 const config: GatsbyConfig = {
   pathPrefix: `${process.env.PREFIX_PATH_VALUE}`,
   siteMetadata: {
-    title: `RAISE Agent Builder`,
-    description: `Build Multi-Agent Apps`,
+    title: `ScrumDiddlyUmptious Agent Factory`,
+    description: `Build Multi-Agent CPR Optimisation Apps`,
     siteUrl: `http://tbd.place`,
   },
   flags: {
