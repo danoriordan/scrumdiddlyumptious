@@ -1,0 +1,13 @@
+{
+    "products": [
+      {"name": "Cheerios", "position": "top row, left side"},
+      {"name": "Cheerios Honey Nut", "position": "top row, center left"},
+      {"name": "Wheaties", "position": "top row, center right"},
+      {"name": "Chex", "position": "second row, left side"},
+      {"name": "Crispix", "position": "second row, center left"},
+      {"name": "Cracklin' Oat Bran", "position": "second row, center right"},
+      {"name": "Life", "position": "bottom row, left side"},
+      {"name": "Giant Size Cheerios", "position": "bottom row, center"}
+    ]
+  }
+  

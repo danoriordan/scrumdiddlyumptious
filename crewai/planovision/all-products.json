@@ -1,0 +1,74 @@
+{
+    "categories": [
+      {
+        "category": "Cereals",
+        "products": [
+          {"name": "Cheerios", "position": "top row, left side"},
+          {"name": "Cheerios Honey Nut", "position": "top row, center left"},
+          {"name": "Wheaties", "position": "top row, center right"},
+          {"name": "Chex", "position": "second row, left side"},
+          {"name": "Crispix", "position": "second row, center left"},
+          {"name": "Cracklin' Oat Bran", "position": "second row, center right"},
+          {"name": "Life", "position": "bottom row, left side"},
+          {"name": "Giant Size Cheerios", "position": "bottom row, center"}
+        ]
+      },
+      {
+        "category": "Juices",
+        "products": [
+          {"name": "Simply Orange Mango", "position": "top shelf, far left"},
+          {"name": "Tropicana Orange No Pulp", "position": "top shelf, left"},
+          {"name": "Del Monte Guava Mango", "position": "top shelf, left center"},
+          {"name": "Farmstand Strawberry Banana", "position": "top shelf, center"},
+          {"name": "Oasis Smoothie Strawberry Banana", "position": "top shelf, right center"},
+          {"name": "Fruitopia Strawberry Passion Awareness", "position": "top shelf, far right"},
+          {"name": "Simply Grapefruit", "position": "middle shelf, far left"},
+          {"name": "Tropicana Orange Tangerine", "position": "middle shelf, left"},
+          {"name": "Del Monte Premium Orange", "position": "middle shelf, left center"},
+          {"name": "Oasis Health Break Antioxia", "position": "middle shelf, right center"},
+          {"name": "Oasis Health Break Berry Pomegranate", "position": "middle shelf, far right"}
+        ]
+      },
+      {
+        "category": "Chips",
+        "products": [
+          {"name": "Tostitos Original", "position": "top row, far left"},
+          {"name": "Tostitos Party Size Original", "position": "top row, center left"},
+          {"name": "Doritos Nacho Cheese Party Size", "position": "top row, center"},
+          {"name": "Doritos Cool Ranch Party Size", "position": "top row, center right"},
+          {"name": "Doritos Cool Ranch", "position": "top row, far right"},
+          {"name": "Tostitos Scoops", "position": "second row, far left"},
+          {"name": "Tostitos Cantina Traditional", "position": "second row, center left"},
+          {"name": "Doritos Spicy Nacho", "position": "second row, center"},
+          {"name": "Doritos Nacho Cheese", "position": "second row, center right"},
+          {"name": "Doritos Flamas", "position": "second row, far right"},
+          {"name": "Tostitos Scoops", "position": "third row, far left"},
+          {"name": "Tostitos Cantina Traditional", "position": "third row, center left"},
+          {"name": "Tostitos Original", "position": "third row, center"},
+          {"name": "Doritos Spicy Nacho", "position": "third row, center right"},
+          {"name": "Doritos Nacho Cheese", "position": "third row, far right"}
+        ]
+      },
+      {
+        "category": "Candies",
+        "products": [
+          {"name": "Warheads Extreme Sour", "position": "top shelf, far left"},
+          {"name": "Swedish Fish", "position": "top shelf, left center"},
+          {"name": "Sour Patch Kids", "position": "top shelf, center"},
+          {"name": "Haribo Gold-Bears", "position": "top shelf, center right"},
+          {"name": "Mike and Ike", "position": "top shelf, far right"},
+          {"name": "Body Rox", "position": "second shelf, far left"},
+          {"name": "Mentos Fruit", "position": "second shelf, left center"},
+          {"name": "Twizzlers", "position": "second shelf, center"},
+          {"name": "Lemonhead", "position": "second shelf, center right"},
+          {"name": "Nerds", "position": "second shelf, far right"},
+          {"name": "Tic Tac", "position": "third shelf, far left"},
+          {"name": "Jelly Belly", "position": "third shelf, left center"},
+          {"name": "Hot Tamales", "position": "third shelf, center"},
+          {"name": "Skittles", "position": "third shelf, center right"},
+          {"name": "Starburst", "position": "third shelf, far right"}
+        ]
+      }
+    ]
+  }
+  

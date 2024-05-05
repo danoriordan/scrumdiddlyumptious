@@ -1,0 +1,20 @@
+{
+    "products": [
+      {"name": "Warheads Extreme Sour", "position": "top shelf, far left"},
+      {"name": "Swedish Fish", "position": "top shelf, left center"},
+      {"name": "Sour Patch Kids", "position": "top shelf, center"},
+      {"name": "Haribo Gold-Bears", "position": "top shelf, center right"},
+      {"name": "Mike and Ike", "position": "top shelf, far right"},
+      {"name": "Body Rox", "position": "second shelf, far left"},
+      {"name": "Mentos Fruit", "position": "second shelf, left center"},
+      {"name": "Twizzlers", "position": "second shelf, center"},
+      {"name": "Lemonhead", "position": "second shelf, center right"},
+      {"name": "Nerds", "position": "second shelf, far right"},
+      {"name": "Tic Tac", "position": "third shelf, far left"},
+      {"name": "Jelly Belly", "position": "third shelf, left center"},
+      {"name": "Hot Tamales", "position": "third shelf, center"},
+      {"name": "Skittles", "position": "third shelf, center right"},
+      {"name": "Starburst", "position": "third shelf, far right"}
+    ]
+  }
+  

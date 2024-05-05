@@ -1,0 +1,16 @@
+{
+    "products": [
+      {"name": "Simply Orange Mango", "position": "top shelf, far left"},
+      {"name": "Tropicana Orange No Pulp", "position": "top shelf, left"},
+      {"name": "Del Monte Guava Mango", "position": "top shelf, left center"},
+      {"name": "Farmstand Strawberry Banana", "position": "top shelf, center"},
+      {"name": "Oasis Smoothie Strawberry Banana", "position": "top shelf, right center"},
+      {"name": "Fruitopia Strawberry Passion Awareness", "position": "top shelf, far right"},
+      {"name": "Simply Grapefruit", "position": "middle shelf, far left"},
+      {"name": "Tropicana Orange Tangerine", "position": "middle shelf, left"},
+      {"name": "Del Monte Premium Orange", "position": "middle shelf, left center"},
+      {"name": "Oasis Health Break Antioxia", "position": "middle shelf, right center"},
+      {"name": "Oasis Health Break Berry Pomegranate", "position": "middle shelf, far right"}
+    ]
+  }
+  
